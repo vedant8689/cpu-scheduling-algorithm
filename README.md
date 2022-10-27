@@ -1,5 +1,5 @@
 # cpu-scheduling-algorithm
-I have created a Python program for the various CPU Scheduling Algorithm.
+Created a Python program for the various CPU Scheduling Algorithm.
 CPU Scheduling Algorithm included:
 a. First Come First Serve(FCFS)
 b. Shortest Job First(SJF)
